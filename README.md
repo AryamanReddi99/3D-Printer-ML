@@ -17,7 +17,7 @@ We followed a rudimentary reinforcement learning loop for our program:
 
 <img src="https://github.com/AryamanReddi99/3D-Printer-ML/blob/master/Images/workflow.png?raw=true"> 
 
-The funtion "create test params" was defined as such:
+The function "create test params" was defined as such:
 
 <img src="https://github.com/AryamanReddi99/3D-Printer-ML/blob/master/Images/workflow1.png?raw=true"> 
 
@@ -33,6 +33,6 @@ Here's are images of a simple print for a cube. As feed rate and extrude amount 
 
 <img src="https://github.com/AryamanReddi99/3D-Printer-ML/blob/master/Images/Picture5.png?raw=true"> 
 
-Here is an alternate run of the program where the intial random sample data happened to be worse. Note that the final print has not been as finely tuned by the learning program as in the above example, but the change in quality over the total run is larger. 
+Here is an alternate run of the program where the initial random sample data happened to be worse. Note that the final print has not been as finely tuned by the learning program as in the above example, but the change in quality over the total run is larger. 
 
-<img src="https://github.com/AryamanReddi99/3D-Printer-ML/blob/master/Images/Picture6.png?raw=true"> 
+<img src="https://github.com/AryamanReddi99/3D-Printer-ML/blob/master/Images/Picture6.png?raw=true">
